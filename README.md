@@ -2,7 +2,7 @@
 I'm a passionate Web Developer from Vehari, Pakistan, currently studying at COMSATS University. My journey blends creativity, technology, and values-driven development. I focus on building responsive, SEO-optimized websites using WordPress, HTML, CSS, JavaScript, and now diving into React.js.
 
 ## 🛠️ Tech Stack
-- 💻 Languages: HTML, CSS, JavaScript, Python (basic), C++
+- 💻 Languages: HTML, CSS, JavaScript, Python (basic).
 - ⚙️ Tools & Platforms: WordPress (Elementor Pro), React.js (learning), Git & GitHub, VS Code
 - 🌐 CMS: WordPress
 
